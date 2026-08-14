@@ -1,21 +1,157 @@
-<h1 align="center">Hi 👋, I'm P Rup Ganesh</h1>
-<h3 align="center">Software Engineering M.Tech student from VIT Vellore</h3>
+# Hi 👋, I'm P Rup Ganesh
 
-- 🔭 I’m currently working on **Intelligent Threat Intelligence Platform for Vulnerability Prioritization and Attack Path Analysis**
+### Software Engineering M.Tech Student | Full-Stack Developer | AI Enthusiast
 
-- 🌱 I’m currently learning **React, Node.js, and AI/ML**
+I'm currently pursuing an Integrated M.Tech in Software Engineering at VIT Vellore.  
+I enjoy building software projects, exploring AI, and learning how different technologies work together.
 
-- 👯 I’m looking to collaborate on **AI and full-stack projects**
+---
 
-- 💬 Ask me about **Java, Python, SQL, and web development**
+## 👨‍💻 About Me
 
-- 📫 How to reach me: **rupganesh21@gmail.com**
+- 🎓 Integrated M.Tech in Software Engineering at **VIT Vellore**
+- 💻 Interested in **Software Development, Full-Stack Development, AI/ML, and Cybersecurity**
+- 🔭 Currently working on **Intelligent Threat Intelligence Platform for Vulnerability Prioritization and Attack Path Analysis**
+- 🌱 Currently learning **React, Node.js, and AI/ML**
+- 💬 Ask me about **Java, Python, SQL, and Web Development**
+- 👯 Looking to collaborate on **AI and Full-Stack projects**
+- 📫 Reach me at **rupganesh21@gmail.com**
+- ⚡ Fun fact: **Just a nerd who builds things, plays games, and watches anime. 🎮🍿**
 
-- ⚡ Fun fact **Just a nerd who builds things, plays games, and watches anime. 🎮🍿**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🚀 Featured Projects
+
+### 🔐 AI-Assisted Vulnerability & Risk Intelligence Platform
+
+A full-stack vulnerability intelligence platform that processes Nmap scan results, analyzes vulnerabilities, and prioritizes security risks using a custom risk-scoring engine.
+
+**Tech:** React • Node.js • Express.js • SQLite • Gemini API
+
+🔗 [View Project](https://github.com/roopganesh21/AI-Vulnerability-Platform)
+
+---
+
+### 🤖 RAG-Based AI Assessment Recommendation Platform
+
+A RAG-based recommendation system that matches job roles with relevant talent assessments using semantic search, vector embeddings, FAISS, and Gemini API.
+
+**Tech:** Python • FastAPI • FAISS • Sentence Transformers • Gemini API
+
+🔗 [View Project](https://github.com/roopganesh21/RAG-Based-AI-Assessment-Recommendation-Platform)
+
+---
+
+### 🏫 Smart Campus Complaint & Resource Management System
+
+A role-based campus management portal for complaint reporting, resource booking, issue tracking, authentication, and analytics.
+
+**Tech:** Java • JSP • Servlets • JDBC • MySQL • Apache Tomcat
+
+🔗 [View Project](https://github.com/roopganesh21/smart-campus-management-system)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,sql" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel" />
+</p>
+
+---
+
+## 📚 Core CS
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+
+---
+
+## 🔧 Tools I Use
+
+- Git & GitHub
+- VS Code
+- Postman
+- Vercel
+- Docker
+- Apache Tomcat
+- MySQL
+- Oracle Database
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roopganesh21&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roopganesh21&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=roopganesh21&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/roopganesh21">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/p-rup-ganesh-6189a2274">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rupganesh21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🎯 Currently
+
+```text
+Learning       → React • Node.js • AI/ML
+Building       → AI + Cybersecurity Projects
+Practicing     → DSA • Software Engineering
+Exploring      → Full-Stack Development
